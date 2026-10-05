@@ -1,0 +1,62 @@
+[
+  {
+    "file": "ash-city.json",
+    "drawCalls": 73,
+    "meshInstances": 4235,
+    "triangles": 101108,
+    "colliders": 8,
+    "bounds": {
+      "min": [
+        -225,
+        -1.4973519125093622,
+        -440
+      ],
+      "max": [
+        331,
+        164,
+        80
+      ]
+    },
+    "bytes": 3884957
+  },
+  {
+    "file": "frozen-city.json",
+    "drawCalls": 38,
+    "meshInstances": 5820,
+    "triangles": 483291,
+    "colliders": 3,
+    "bounds": {
+      "min": [
+        -225,
+        -1.0366389614798805,
+        -440
+      ],
+      "max": [
+        242.5,
+        164,
+        90
+      ]
+    },
+    "bytes": 4864681
+  },
+  {
+    "file": "utopia-city.json",
+    "drawCalls": 98,
+    "meshInstances": 6099,
+    "triangles": 351280,
+    "colliders": 19,
+    "bounds": {
+      "min": [
+        -240,
+        -0.29499998688697815,
+        -477.34582710266113
+      ],
+      "max": [
+        240,
+        181.01783752441406,
+        49.5
+      ]
+    },
+    "bytes": 2943699
+  }
+]

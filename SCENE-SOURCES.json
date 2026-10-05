@@ -1,0 +1,80 @@
+[
+  {
+    "slug": "ash-city",
+    "file": "mpc-ash-wide.jpg",
+    "world": "Ash World",
+    "episode": "S1E4",
+    "url": "https://media.mpcvfx.com/app/uploads/2024/08/DARK-MATTER_0007_104_009_0450_comp_MPC_v561.1500.jpg",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "source": "https://www.mpcvfx.com/en/filmography/dark-matter/",
+    "description": "Ash-saturated Lake Michigan, curving lakeshore road, abandoned cars, gray ruined Chicago skyline, suspended ash, gray overcast sky."
+  },
+  {
+    "slug": "water-city",
+    "file": "mpc-water-world.jpg",
+    "world": "Water World",
+    "episode": "S1E5",
+    "url": "https://media.mpcvfx.com/app/uploads/2024/08/DARK-MATTER_0004_105_005_0100_comp_MPC_v260.1017.jpg",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "source": "https://www.mpcvfx.com/en/filmography/dark-matter/",
+    "description": "Jason and Amanda in Box left foreground; high choppy water and white foam flood the threshold; damaged Chicago skyline including John Hancock Center rises from water under gray clouds."
+  },
+  {
+    "slug": "ideal-street",
+    "file": "mpc-world26-street.jpg",
+    "world": "World 26 / ideal Chicago",
+    "episode": "S1E7",
+    "url": "https://media.mpcvfx.com/app/uploads/2024/08/DARK-MATTER_0000_107_006_0650_comp_MPC_v387.1033-1280x720.jpg",
+    "dimensions": [
+      1280,
+      720
+    ],
+    "source": "https://www.mpcvfx.com/en/filmography/dark-matter/",
+    "description": "Sunny street-level city, pedestrians, railings, old low brick buildings mixed with ultramodern glass towers, slender white/gold spires, planted vertical terraces, high skybridge."
+  },
+  {
+    "slug": "snow-house",
+    "file": "folks-snow-house.jpg",
+    "world": "Snow World",
+    "episode": "S1E4",
+    "url": "https://folksvfx.com/wp-content/uploads/2024/09/DARK-MATTER-STILLS13.jpg",
+    "dimensions": [
+      3600,
+      2000
+    ],
+    "source": "https://folksvfx.com/wp-json/wp/v2/media?search=dark&per_page=30",
+    "description": "Two small walking figures; brick house buried up to its upper floor by massive sculpted drifts, distant skyline, frozen lake and broken ice, diffuse blue winter light. Original contains black letterbox borders and FOLKS mark."
+  },
+  {
+    "slug": "snow-shore",
+    "file": "folks-snow-shore.jpg",
+    "world": "Snow World",
+    "episode": "S1E4",
+    "url": "https://folksvfx.com/wp-content/uploads/2024/09/DARK-MATTER-STILLS11.jpg",
+    "dimensions": [
+      3600,
+      2000
+    ],
+    "source": "https://folksvfx.com/wp-json/wp/v2/media?search=dark&per_page=30",
+    "description": "Very wide frozen Chicago lakeshore: jagged ice blocks and ridges to the left, long shoreline into distance, deep wind-shaped snowdrifts against city towers, low-contrast cloudy pale-blue sky. Original contains black letterbox borders and FOLKS mark."
+  },
+  {
+    "slug": "ideal-park",
+    "file": "folks-ideal-city.jpg",
+    "world": "World 26 / ideal Chicago",
+    "episode": "S1E7",
+    "url": "https://folksvfx.com/wp-content/uploads/2024/09/DARK-MATTER-STILLS20.jpg",
+    "dimensions": [
+      3600,
+      2000
+    ],
+    "source": "https://folksvfx.com/wp-json/wp/v2/media?search=dark&per_page=30",
+    "description": "Jason and Amanda seated in green lakeside park looking across water toward ideal Chicago: fantastically slender central towers, integrated historic Chicago buildings, rounded glass structures by shore, bright clear blue sky. Original contains black letterbox borders and FOLKS mark."
+  }
+]

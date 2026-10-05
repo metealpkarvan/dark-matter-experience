@@ -1,0 +1,171 @@
+[
+  {
+    "id": "010903",
+    "slug": "home-foyer",
+    "episode": "S1, E9",
+    "zip_url": "https://www.apple.com/tv-pr/shows-and-films/d/dark-matter/images/season-01/unit-photos/episode-09/photo-010903/Dark_Mater_Photo_010903.zip",
+    "image_url": "https://www.apple.com/tv-pr/shows-and-films/d/dark-matter/images/season-01/unit-photos/episode-09/photo-010903/Dark_Mater_Photo_010903.jpg.photo_modal_show_home_large.jpg",
+    "dimensions": [
+      3840,
+      1918
+    ],
+    "caption": "Oakes Fegley and Jennifer Connelly in \"Dark Matter,\" now streaming on Apple TV.",
+    "selection_status": "excluded_unknown_location",
+    "source_page": "https://www.apple.com/tv-pr/originals/dark-matter/episodes-images/",
+    "credit": "Apple TV / Sandy Morris",
+    "note": "Pale columns and curved slender stair rail do not match the original set. Scene location not established; exclude from original home geometry."
+  },
+  {
+    "id": "010803",
+    "slug": "home-living",
+    "episode": "S1, E8",
+    "zip_url": "https://www.apple.com/tv-pr/shows-and-films/d/dark-matter/images/season-01/unit-photos/episode-08/photo-010803/Dark_Matter_Photo_010803.zip",
+    "image_url": "https://www.apple.com/tv-pr/shows-and-films/d/dark-matter/images/season-01/unit-photos/episode-08/photo-010803/Dark_Matter_Photo_010803.jpg.photo_modal_show_home_large.jpg",
+    "dimensions": [
+      3840,
+      1918
+    ],
+    "caption": "Jennifer Connelly and Jimmi Simpson in \"Dark Matter,\" now streaming on Apple TV.",
+    "selection_status": "excluded_other_location",
+    "source_page": "https://www.apple.com/tv-pr/originals/dark-matter/episodes-images/",
+    "credit": "Apple TV / Sandy Morris",
+    "note": "Exposed brick loft, cream sofa and tall grid glazing do not match published Jason1 set. Exclude from original home geometry."
+  },
+  {
+    "id": "010801",
+    "slug": "home-stairs",
+    "episode": "S1, E8",
+    "zip_url": "https://www.apple.com/tv-pr/shows-and-films/d/dark-matter/images/season-01/unit-photos/episode-08/photo-010801/Dark_Matter_Photo_010801.zip",
+    "image_url": "https://www.apple.com/tv-pr/shows-and-films/d/dark-matter/images/season-01/unit-photos/episode-08/photo-010801/Dark_Matter_Photo_010801.jpg.photo_modal_show_home_large.jpg",
+    "dimensions": [
+      6000,
+      4000
+    ],
+    "caption": "Joel Edgerton and Jennifer Connelly in \"Dark Matter,\" now streaming on Apple TV.",
+    "selection_status": "consistent_original_home_close_scene",
+    "source_page": "https://www.apple.com/tv-pr/originals/dark-matter/episodes-images/",
+    "credit": "Apple TV / Sandy Morris"
+  },
+  {
+    "id": "010707",
+    "slug": "home-fridge",
+    "episode": "S1, E7",
+    "zip_url": "https://www.apple.com/tv-pr/shows-and-films/d/dark-matter/images/season-01/unit-photos/episode-07/photo-010707/Dark_Matter_Photo_010707.zip",
+    "image_url": "https://www.apple.com/tv-pr/shows-and-films/d/dark-matter/images/season-01/unit-photos/episode-07/photo-010707/Dark_Matter_Photo_010707.jpg.photo_modal_show_home_large.jpg",
+    "dimensions": [
+      3840,
+      1918
+    ],
+    "caption": "Oakes Fegley in \"Dark Matter,\" now streaming on Apple TV.",
+    "selection_status": "confirmed_original_home",
+    "source_page": "https://www.apple.com/tv-pr/originals/dark-matter/episodes-images/",
+    "credit": "Apple TV / Sandy Morris"
+  },
+  {
+    "id": "010705",
+    "slug": "home-dining-kitchen",
+    "episode": "S1, E7",
+    "zip_url": null,
+    "image_url": "https://www.apple.com/tv-pr/shows-and-films/d/dark-matter/images/season-01/unit-photos/episode-07/photo-010705/Dark_Matter_Photo_010705.jpg.photo_modal_show_home_large.jpg",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "caption": "Joel Edgerton and Jennifer Connelly in \"Dark Matter,\" now streaming on Apple TV.",
+    "note": "Apple JSON download incorrectly points to 010505. Used official display image for 010705.",
+    "selection_status": "confirmed_original_home",
+    "source_page": "https://www.apple.com/tv-pr/originals/dark-matter/episodes-images/",
+    "credit": "Apple TV / Sandy Morris"
+  },
+  {
+    "id": "010601",
+    "slug": "daniela-painting",
+    "episode": "S1, E6",
+    "zip_url": "https://www.apple.com/tv-pr/shows-and-films/d/dark-matter/images/season-01/unit-photos/episode-06/photo-010601/Dark_Mater_Photo_010601.zip",
+    "image_url": "https://www.apple.com/tv-pr/shows-and-films/d/dark-matter/images/season-01/unit-photos/episode-06/photo-010601/Dark_Mater_Photo_010601.jpg.photo_modal_show_home_large.jpg",
+    "dimensions": [
+      3840,
+      1918
+    ],
+    "caption": "Jennifer Connelly in \"Dark Matter,\" now streaming on Apple TV.",
+    "selection_status": "uncertain_original_home_location",
+    "source_page": "https://www.apple.com/tv-pr/originals/dark-matter/episodes-images/",
+    "credit": "Apple TV / Sandy Morris",
+    "note": "Official painting-at-easel still with orange curtains/blinds; source caption does not identify world or room. Do not claim an original-home studio floor plan."
+  },
+  {
+    "id": "010108",
+    "slug": "home-kitchen",
+    "episode": "S1, E1",
+    "zip_url": "https://www.apple.com/tv-pr/shows-and-films/d/dark-matter/images/season-01/unit-photos/episode-01/photo-010108/Dark_Mater_Photo_010108.zip",
+    "image_url": "https://www.apple.com/tv-pr/shows-and-films/d/dark-matter/images/season-01/unit-photos/episode-01/photo-010108/Dark_Mater_Photo_010108.jpg.photo_modal_show_home_large.jpg",
+    "dimensions": [
+      6000,
+      4000
+    ],
+    "caption": "Jennifer Connelly and Joel Edgerton in \"Dark Matter,\" now streaming on Apple TV.",
+    "selection_status": "confirmed_original_home",
+    "source_page": "https://www.apple.com/tv-pr/originals/dark-matter/episodes-images/",
+    "credit": "Apple TV / Sandy Morris"
+  },
+  {
+    "slug": "adg-home-world1",
+    "source_page": "https://digital.copcomm.com/i/1529668-november-december-2024/69",
+    "image_url": "https://content.cdntwrk.com/files/aT0xNTI5NjY4JnA9Njkmdj0xJmNtZD12JnNpZz0wNzhiYTA4YThjOTYzMzg1M2Q3NzI2MjVlZWU5MzJlYQ%253D%253D/-w-1800-80.jpg",
+    "dimensions": [
+      1800,
+      2206
+    ],
+    "selection_status": "confirmed_original_home_primary_set_photos",
+    "credit": "Patricio M. Farrell / Art Directors Guild Perspective",
+    "note": "Printed p68: B actual foyer, C actual living, D/E actual kitchen. A is inspirational lookbook, not final set."
+  },
+  {
+    "slug": "adg-home-world2",
+    "source_page": "https://digital.copcomm.com/i/1529668-november-december-2024/70",
+    "image_url": "https://content.cdntwrk.com/files/aT0xNTI5NjY4JnA9NzAmdj0xJmNtZD12JnNpZz1hY2RmZTAzMDdjODhhOTM2YzljZWIxZTI0ZDc0OTEwOA%253D%253D/-w-1800-80.jpg",
+    "dimensions": [
+      1800,
+      2206
+    ],
+    "selection_status": "comparison_only_alternate_home",
+    "credit": "Patricio M. Farrell / Art Directors Guild Perspective",
+    "note": "Printed p69: F lookbook, G-J Jason2 set. Exclude from original home reconstruction."
+  },
+  {
+    "slug": "exterior-secondary-show-frame",
+    "source_page": "https://www.atlasofwonders.com/2024/05/where-was-dark-matter-filmed.html",
+    "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmRfaQoEq9LgIQKeo_EElTqDRbVkkIqQ4lcU5lFHMQuJs4xAd46wp5YIbe_lNev-q5p_t1fSI0VhNjEM0miTiHmghA3PbMZ1taZ-QEKs0B4iWxVlyzEjLCgHrnvSEWXnDMhjW89VWpAb2-Nuh0lSMXwlCV8c9OUDWRSb3bgIegedLsrr0/s1600/5.jpg",
+    "dimensions": [
+      800,
+      537
+    ],
+    "selection_status": "secondary_exterior_visual_reference",
+    "credit": "AtlasOfWonders captions Image courtesy of Apple TV",
+    "note": "No primary Apple-hosted equivalent located. Exact measurements and unseen roof/back facade not established."
+  },
+  {
+    "slug": "bedroom-minder",
+    "source_page": "https://www.alysonkhan.com/writings/2024/6/13/artwork-on-dark-matter-on-appletv",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/5644def8e4b0e17eb49c311b/50dd812e-ef58-4207-9efd-090757e5d2ee/The+Minder.jpg",
+    "dimensions": [
+      1440,
+      1920
+    ],
+    "selection_status": "confirmed_original_home_art_prop_reference",
+    "credit": "Alyson Khan",
+    "note": "Artwork image only, no room geometry. Artist confirms The Minder and Five Cups prints above bed and dresser in Jason1 bedroom."
+  },
+  {
+    "slug": "bedroom-five-cups",
+    "source_page": "https://www.alysonkhan.com/writings/2024/6/13/artwork-on-dark-matter-on-appletv",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/5644def8e4b0e17eb49c311b/302a94c0-3eba-4686-9bdd-719e7fef9cfb/five%2Bcups+%281%29.jpg",
+    "dimensions": [
+      500,
+      747
+    ],
+    "selection_status": "confirmed_original_home_art_prop_reference",
+    "credit": "Alyson Khan",
+    "note": "Artwork image only, no room geometry."
+  }
+]

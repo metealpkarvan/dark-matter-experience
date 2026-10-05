@@ -1,0 +1,115 @@
+{
+  "file": "home-world.json",
+  "drawCalls": 73,
+  "triangles": 190532,
+  "instances": 5364,
+  "bytes": 1023107,
+  "colliders": 41,
+  "bounds": {
+    "min": [
+      -87.90625810623169,
+      -0.1249999962747097,
+      -153.19542837142944
+    ],
+    "max": [
+      85.16731548309326,
+      47.6189079284668,
+      42
+    ]
+  },
+  "entryWidth": 2.2,
+  "centreRoute": "x=0, z=2.25..-34, clear with 0.61 m margin",
+  "destinations": [
+    {
+      "name": "Chicago sokağı",
+      "position": [
+        0,
+        1.67,
+        2.25
+      ],
+      "lookAt": [
+        -21,
+        3,
+        -15
+      ]
+    },
+    {
+      "name": "Dessen ailesinin evi",
+      "position": [
+        0,
+        1.67,
+        -8.6
+      ],
+      "lookAt": [
+        0,
+        1.5,
+        -18
+      ]
+    },
+    {
+      "name": "Ahşap antre",
+      "position": [
+        0,
+        1.67,
+        -15.3
+      ],
+      "lookAt": [
+        4.2,
+        1.8,
+        -18
+      ]
+    },
+    {
+      "name": "Salon",
+      "position": [
+        -0.25,
+        1.67,
+        -19.7
+      ],
+      "lookAt": [
+        -3.5,
+        1.15,
+        -18.6
+      ]
+    },
+    {
+      "name": "Daniela’nın resim köşesi",
+      "position": [
+        0.15,
+        1.67,
+        -23.1
+      ],
+      "lookAt": [
+        -4.7,
+        1.6,
+        -23.4
+      ]
+    },
+    {
+      "name": "Yemek alanı",
+      "position": [
+        -0.25,
+        1.67,
+        -27
+      ],
+      "lookAt": [
+        -3.6,
+        0.95,
+        -29
+      ]
+    },
+    {
+      "name": "Mutfak",
+      "position": [
+        0.3,
+        1.67,
+        -32.2
+      ],
+      "lookAt": [
+        4.3,
+        1.45,
+        -32.4
+      ]
+    }
+  ]
+}
