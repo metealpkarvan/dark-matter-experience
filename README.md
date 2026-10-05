@@ -4,6 +4,8 @@ Apple TV'nin Dark Matter dizisi için Türkçe, bağımsız ve ticari olmayan bi
 
 ## GitHub ve Vercel
 
+Canlı site: https://dark-matter-experience.vercel.app
+
 Kaynak depo: https://github.com/metealpkarvan/dark-matter-experience
 
 Vercel projesi `dark-matter-experience`, statik çıktı klasörü `dist`. Framework ve kurulum/derleme komutları gerekmez. `main` dalına gönderilen değişiklikler bağlı Vercel projesinde otomatik yayımlanır. Yerel Vercel kimlik bilgileri ve ortam dosyaları depoya eklenmez.
